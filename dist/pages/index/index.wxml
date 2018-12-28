@@ -1,0 +1,5 @@
+<block>
+    <view class="index">
+        <at-grid data="{{anonymousState__temp}}" __triggerObserer="{{ _triggerObserer }}" bindonclick="handleClick" __fn_onClick="{{true}}" data-e-handleClick-so="this"></at-grid>
+    </view>
+</block>
